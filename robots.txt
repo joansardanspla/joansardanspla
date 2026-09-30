@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joansardanspla.github.io/joansardanspla/sitemap.xml
