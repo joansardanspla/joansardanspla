@@ -1,4 +1,4 @@
-## Hi there 👋
+Pàgina del músic Joan Sardans Pla
 
 <!--
 **joansardanspla/joansardanspla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
