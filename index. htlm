@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ca">
+  
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Joan Sardans Pla</title>
+  <meta name="description" content="Pàgina del músic de Manresa Joan Sardans Pla. Projectes, concerts i trajectòria artística.">
+  <meta name="author" content="Joan Sardans Pla">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://joansardanspla.codeberg.page">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+      background-color: #fdfdfb;
+      font-family: 'Cabin', sans-serif;
+      font-size: 17px;
+      line-height: 1.5;
+      letter-spacing: 0.01em;
+      color: #222;
+      margin: 0;
+    }
+
+    main {
+      max-width: 480px;
+      padding: 48px 24px; 
+      margin: 0 auto;
+    }
+
+    @media (min-width: 768px) {
+        main {
+            margin: 0;
+            padding: 48px 0 48px 72px;
+        }
+    }
+
+
+    .js-img {
+      width: 220px;
+      height: auto;
+      margin: 0 0 32px 0;
+    }
+
+    .js-link {
+      display: block;
+      line-height: 2;  
+      color: #222;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    
+    <img class="js-img" 
+         src="jo_verd.webp"
+         alt="Joan Sardans Pla tocant el violí" />
+
+    <nav>
+      <a class="js-link" href="https://rumbesia.cat" target="_blank" rel="noopener noreferrer">Rumbesia</a>
+      <a class="js-link" href="rumberus.webp" target="_blank" rel="noopener noreferrer">Els Rumberus Catalans</a>
+      <a class="js-link" href="https://www.instagram.com/sonike_oficial?utm_source=qr&igsh=NzdlNzR3N2tyZ3Iw" target="_blank" rel="noopener noreferrer">Soniké</a>
+      <a class="js-link" href="lladre.webp" target="_blank" rel="noopener noreferrer">La Cançó del Lladre</a>
+      <a class="js-link" href="lladre.mp3" target="_blank" rel="noopener noreferrer">Mp3</a>
+      <a class="js-link" href="falseta.mp3" target="_blank" rel="noopener noreferrer">Falseta</a>
+      <a class="js-link" href="falseta1.mp3" target="_blank" rel="noopener noreferrer">Falseta</a>
+    </nav>
+    
+  </main>
+</body>
+  
+</html>
+
